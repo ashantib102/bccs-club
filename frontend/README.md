@@ -39,7 +39,8 @@ npm install
 ### Run the development server:
 
 ```bash
-cd path/to/bccs-club/frontend
+cd /bccs-club/frontend
+cd \Users\deant\bccs-club\frontend
 npm run dev
 ```
 

@@ -19,6 +19,10 @@ const items = [
     title: "Basta Fellowship",
     link: "https://www.projectbasta.com/fellowship",
   },
+  {
+    title: "Hack Diversity Fellowship",
+    link: "https://www.hackdiversity.com/how-to-apply-nyc?gad_source=1&gclid=CjwKCAiAxKy5BhBbEiwAYiW--yh79bHOXV30DcyxtwCnqs3dB8MRXyvtk-AO15ckREKjVgevfbNUhxoCq4UQAvD_BwE",
+  },
 ]
 
 export default function Page() {
